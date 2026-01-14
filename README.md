@@ -1,4 +1,4 @@
-#user stories
+# user stories
 User Registration
 As a new user, I want to create an account so that I can place orders and track my purchases.
 Priority: High
